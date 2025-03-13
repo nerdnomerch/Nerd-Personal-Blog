@@ -103,7 +103,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
    A3: Please set the revalidateTime in site.config.js and observe how long it takes to update.
    
    Q4: What should be entered for NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID and NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION in site.config.js?
-   A4: You can check https://github.com/morethanmin/morethan-log/issues/203. Please note that updates may take some time to take effect after setting.
+   A4: You can check (https://github.com/nerdnomerch). Please note that updates may take some time to take effect after setting.
 
 If you encounter any other issues, please feel free to add them to the GitHub README to assist future users. We look forward to your contributions!
 
@@ -120,7 +120,7 @@ Contributors template:
 <a href="https://github.com/{username}"><img src="{src}" width="50px" alt="{username}" /></a>&nbsp;&nbsp;
 -->
 
-<a href="https://github.com/morethanmin/morethan-log/graphs/contributors">
+<a href="(https://github.com/nerdnomerch)">
 <img src="https://contrib.rocks/image?repo=morethanmin/morethan-log" />
 </a>
 
